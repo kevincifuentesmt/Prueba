@@ -1,0 +1,6 @@
+mis nalgas
+estan bonitas
+pero mas bonitas
+es tu vrga
+que?
+{% if  %}C:\Users\Kevin Pedraza\g33_github{% endif %}
